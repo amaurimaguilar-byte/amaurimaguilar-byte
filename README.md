@@ -1,4 +1,4 @@
-###  <p align="center">hello ,there! </p>
+###  <p align="center">hello there! </p>
 
 <center >Welcome to my GitHub portfolio<center> 
 
