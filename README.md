@@ -32,6 +32,9 @@
 ![TIA Portal](https://img.shields.io/badge/TIA%20Portal-00427C?style=for-the-badge&logo=siemens&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=black)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-CC0000?style=for-the-badge&logo=autodesk&logoColor=black)
+[![MATLAB](https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=matlab&logoColor=white)](https://github.com/amaurimaguilar-byte/MATLAB-Control-Projects-1)
+[![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=simulink&logoColor=white)](https://github.com/amaurimaguilar-byte/MATLAB-Control-Projects-1)
+
 
 
 <p align="center">
@@ -44,7 +47,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a><a href="https://github.com/amaurimaguilar-byte">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a><a href="https://www.youtube.com/@@AmauriAguilar-1401">
+</a><a href="https://www.youtube.com/@AmauriAguilar-1401">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
