@@ -16,7 +16,7 @@
   ### **Languages and Tools**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)(https://github.com/amaurimaguilar-byte/My-own-page-Projects).
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/amaurimaguilar-byte/My-own-page-Projects)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/amaurimaguilar-byte/SQL_BASE_NETFLIX)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -28,7 +28,7 @@
   <img src="assets/images/ARM.gif" alt="Robotic Arm Animation" width="100" />
 </p>
 
-![RobotStudio](https://img.shields.io/badge/RobotStudio-FF0000?style=for-the-badge&logo=abbrobotstudio&logoColor=white).(https://www.youtube.com/watch?v=FAzy6zTvJX0).
+![RobotStudio](https://img.shields.io/badge/RobotStudio-FF0000?style=for-the-badge&logo=abbrobotstudio&logoColor=white)](https://www.youtube.com/watch?v=FAzy6zTvJX0).
 ![TIA Portal](https://img.shields.io/badge/TIA%20Portal-00427C?style=for-the-badge&logo=siemens&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=black)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-CC0000?style=for-the-badge&logo=autodesk&logoColor=black)
